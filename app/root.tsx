@@ -1,4 +1,4 @@
-import { MetaFunction } from "@remix-run/cloudflare";
+import { MetaFunction } from "@remix-run/node";
 import {
   Links,
   LiveReload,
